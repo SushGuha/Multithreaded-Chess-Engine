@@ -8,6 +8,7 @@ SUSHANT GUHA
 
 **Development information:**
 Operating System: Windows-10
+
 External library: Triple Happy Chess (https://github.com/billforsternz/thc-chess-library).
 
 **Running information**
